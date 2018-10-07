@@ -1,4 +1,9 @@
-# HTML/CSS Bootcamp
+#Create a duplicate of a example site for DigitalCrafts.
+By CJ Horlebein
+October 6, 2018
+
+
+## HTML/CSS Bootcamp
 
 ## Your task:
 
