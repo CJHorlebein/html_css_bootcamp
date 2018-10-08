@@ -33,8 +33,9 @@
     color: #EBEBEB;
 }
 
-.section{
+.section a{
     color: #A6A6A6;
+    text-decoration: none;
 }
 
 .section > input {
@@ -75,6 +76,8 @@
 .greeting div {
     width: 100px;
     display: inline-block;
+    font-weight: 600;
+    color: #777777;
     text-align: center;
 }
 
