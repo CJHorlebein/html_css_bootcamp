@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-container {
+    background-color: #F4F4F4;
+    margin: 0 auto;
+    width: 980px;
+}
+
+.cover {
+    background-image: url(img/atl.png);
+    height: 480px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    margin: 0 auto;
+    padding-top: 15px;
+    width: 570px;
+    text-align: right;
+}
+
+nav a{
+    font-size: 12px;
+    margin-left: 30px;
+    color: #CAD1DB; 
+    text-decoration: none;
+}
+
+.title-card {
+    display: block;
+    margin: 100px auto 90px auto;
+    color: #FCFEFD;
+    text-align: center;
+    width: 340px;
+}
+
+.title-card > img {
+    display: block;
+    margin: 0 auto 20px;
+    width: 180px;
+}
+
+.title-card > h1 {
+    font-size: 64px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.title-card > span {
+    color: #CDD0D9;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.cover > img {
+    display: block;
+    margin: 0 auto;
+}
+
+.motto {
+    margin-top: 70px;
+    text-align: center;
+    font-size: 36px;
+}
+
+.assets {
+    position: relative;
+    margin: 80px auto 100px;
+    width: 680px;
+}
+
+.assets > div {
+    width: 200px;
+    display: inline-block;
+    position: relative;
+}
+
+.hashtags {
+    margin: 0 35px;
+}
+
+.symbol {
+    margin: 0 auto 10px;
+    position: relative;
+    display: block;
+    width: 120px;
+    height: 120px;
+    border: solid 10px black;
+    border-radius: 50%;
+    font-size: 64px;
+}
+
+.assets span {
+    position: absolute;
+    top: 20px;
+    color: #323232;
+}
+
+.users span {
+    left: 25px;
+}
+
+.hashtags span {
+    left: 42px;
+}
+
+.moolah span {
+    left: 42px;
+}
+
+div b {
+    display: block;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    color: #323232;
+}
+
+.text-common {
+    width: 200px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #323232;
+    text-align: center;
+}
+
+.users > .symbol {
+    border-color:#F07934;
+}
+
+.hashtags > .symbol {
+    border-color:#7BC140;
+}
+
+.moolah > .symbol {
+    border-color: #2D8CCE;
+}
+
+footer {
+    background-color: #515151;
+    text-align: center;
+    padding: 20px 0 10px;
+}
+
+footer div {
+    display: block;
+    margin-top: 10px;
+}
+
+footer a {
+    color: #CFCFCF;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 25px;
+}
+
+footer span {
+    display: block;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #888888;
+}
