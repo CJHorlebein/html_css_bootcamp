@@ -1,5 +1,7 @@
 #Create a duplicate of a example site for DigitalCrafts.
+
 By CJ Horlebein
+
 October 6, 2018
 
 
